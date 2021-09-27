@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["fetch","then","res","json","consol","log"],"mappings":";AACAA,MAAM,iCAAiCC,KAAKC,GAAOA,EAAIC,QAAQF,KAAKG,OAAOC","file":"src.522fc045.js","sourceRoot":"../src","sourcesContent":["//READ - GET//\nfetch('http://localhost:3000/profile').then(res => res.json()).then(consol.log);"]}
