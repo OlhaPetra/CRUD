@@ -2,3 +2,4 @@
 //import POST from './js/post.js'
 //import PATCH from './js/patch.js'
 //import DELETE from './js/delete.js'
+import async from './js/async.js'
